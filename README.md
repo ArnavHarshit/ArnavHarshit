@@ -6,7 +6,7 @@
 
 Most recently I was a Product Engineer Intern at **UnifyApps**, where I built the Agent Optimizer: a conversational agent that diagnoses 25+ production AI agents across cost, latency and instruction quality. The internship led to a pre-placement offer.
 
-## Selected work
+## Work
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
